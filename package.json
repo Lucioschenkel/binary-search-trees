@@ -1,0 +1,15 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "Binary search tree implementation in Js",
+  "main": "index.js",
+  "author": "Lucioschenkel <39536631+Lucioschenkel@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.4"
+  }
+}
